@@ -1,0 +1,11 @@
+{
+    "python.analysis.extraPaths": [
+        "./CS 110 Projects/BJ_EC_",
+        "./CS 110 Projects/BJ_EC_"
+    ],
+    "python.testing.pytestArgs": [
+        "CS 110 Projects"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
